@@ -1,7 +1,7 @@
 name:                tinytemplate
 version:             0.1.1.0
 synopsis:            A tiny text templating library
-description:
+description:         A tiny text templating library
 homepage:            http://github.com/dicomgrid/tinytemplate
 license:             MIT
 license-file:        LICENSE

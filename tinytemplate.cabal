@@ -15,6 +15,10 @@ extra-source-files:
 tested-with:         GHC == 7.4.2, GHC == 7.6.3, GHC == 7.8.4, GHC == 7.10.1, GHC == 7.10.2
 cabal-version:       >=1.10
 
+source-repository head
+  type: git
+  location: https://github.com/dicomgrid/tinytemplate
+
 library
   exposed-modules:     Data.Text.Template
   build-depends:       base >=4.5 && <5,
